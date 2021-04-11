@@ -13,7 +13,7 @@ This is my diy smartphone based around the orange pi 3G iot development board.
 -Some really small screws
 
 ## Assembly
-new case: soon™
+new case: Smartphone/Case/
 Old case: ferferite.com/projects
 
 ## License 
